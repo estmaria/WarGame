@@ -1,0 +1,7 @@
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\WarGame\bin\Debug\WarGame.exe.config
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\WarGame\bin\Debug\WarGame.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\WarGame\bin\Debug\WarGame.pdb
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\WarGame\obj\Debug\WarGame.csproj.AssemblyReference.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\WarGame\obj\Debug\WarGame.csproj.CoreCompileInputs.cache
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\WarGame\obj\Debug\WarGame.exe
+C:\Users\mestb\OneDrive\Escritorio\Class\COMS201\WarGame\obj\Debug\WarGame.pdb
